@@ -1,3 +1,7 @@
 This is a personal portfolio designed to clearly and objectively showcase my professional background and technical skills. Inspired by modern projects utilizing canvas to create immersive visual experiences, I opted for a minimalist and aesthetically balanced design that avoids visual clutter to convey professionalism, focus, and elegance.
 The color palette combines neutral tones of nude and brown, providing a gentle contrast that highlights textual and visual content without distracting the visitor. The project is built exclusively with HTML and CSS, demonstrating a lightweight and responsive approach that prioritizes user experience across different devices.
 The structure features dedicated sections including About Me, Experience & Projects, Education, Technical Skills, Certificates, and Contact, ensuring intuitive and organized navigation. This portfolio not only reflects my qualifications and experiences but also showcases my commitment to best practices in web development, functional simplicity, and refined aesthetics.
+
+
+The portfolio link 
+🔗 https://marlenemaimuna.github.io/Portifolio-Marlene-Paulino/
